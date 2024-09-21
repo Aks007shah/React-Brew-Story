@@ -1,0 +1,80 @@
+{
+  "user": [
+    {
+      "fullname": "Akshat Sharma",
+      "email": "akshu007sharma@gmail.com",
+      "password": "Hello123",
+      "reEnterPassword": "Hello123",
+      "id": 1
+    },
+    {
+      "fullname": "Shashi Sharma",
+      "email": "shashi@gmail.com",
+      "password": "hi123",
+      "reEnterPassword": "hi123",
+      "id": 2
+    },
+    {
+      "fullname": "Ayesha Khan",
+      "email": "ayesha@gmail.com",
+      "password": "ayesha",
+      "reEnterPassword": "ayesha",
+      "id": 3
+    },
+    {
+      "fullname": "Seema",
+      "email": "seema@gmail.com",
+      "password": "Hello123",
+      "reEnterPassword": "Hello123",
+      "id": 4
+    },
+    {
+      "fullname": "Akshat Sharma",
+      "email": "akshu001sharma@gmail.com",
+      "password": "Drink Coffee! but dont' copy :)",
+      "reEnterPassword": "Drink Coffee! but dont' copy :)",
+      "id": 5
+    },
+    {
+      "fullname": "Akshat",
+      "email": "akshat@gmail.com",
+      "password": "mWZM44PV7K56wuX",
+      "reEnterPassword": "mWZM44PV7K56wuX",
+      "id": 6
+    },
+    {
+      "fullname": "Seema",
+      "email": "seema",
+      "id": 7
+    },
+    {
+      "fullname": "Seema",
+      "email": "seemadevi@gmail.com",
+      "password": "seemadevi@gmail.com",
+      "reEnterPassword": "seemadevi@gmail.com",
+      "id": 8
+    },
+    {
+      "fullname": "demo",
+      "email": "demo@gmail.com",
+      "password": "demo@gmail.com",
+      "reEnterPassword": "demo@gmail.com",
+      "id": 9
+    },
+    {
+      "fullname": "Aman",
+      "email": "amannn@gmail.com",
+      "password": "amannn@gmail.com",
+      "reEnterPassword": "amannn@gmail,com",
+      "id": 10
+    },
+    {
+      "fullname": "Akshu",
+      "email": "akshu@gmail.in",
+      "password": "akshu@gmaiil.in",
+      "reEnterPassword": "akshu@gmail.in",
+      "id": 11
+    }
+  ],
+  "products": []
+}
